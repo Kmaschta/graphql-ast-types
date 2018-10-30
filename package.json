@@ -1,5 +1,5 @@
 {
-  "name": "graphql-ast-types",
+  "name": "graphql-ast-types-browser",
   "version": "1.0.2",
   "main": "lib/index.js",
   "license": "MIT",
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imranolas/graphql-ast-types.git"
+    "url": "git+https://github.com/Kmaschta/graphql-ast-types.git"
   },
   "files": [
     "README.md",
